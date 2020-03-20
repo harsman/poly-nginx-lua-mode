@@ -10,9 +10,6 @@ This is very useful when using e.g. [OpenResty](https://openresty.org).
 
 Get the latest version of poly-nginx-lua-mode at https://github.com/harsman/poly-nginx-lua-mode
 
-Features
---------
-
 Installation
 ------------
 
